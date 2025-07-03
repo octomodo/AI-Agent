@@ -239,16 +239,13 @@ Join our growing community of automation enthusiasts:
 
 ## 🆘 Getting Help
 
-- **Documentation:** [Complete guides and tutorials](https://aiagent.dev/docs)
-- **Community Forum:** [Ask questions and get answers](https://community.aiagent.dev)
-- **Video Tutorials:** [Step-by-step walkthroughs](https://aiagent.dev/tutorials)
-- **Support Ticket:** [Direct help from our team](https://aiagent.dev/support)
+- **Support Ticket:** [Direct help from our team](mailto:hello@aiagent.surf)
 
 ---
 
 **Made with 🤖 for everyone who wants to automate the web**
 
-[🌐 Try AI Agent](https://aiagent.dev) | [📚 Documentation](https://aiagent.dev/docs) | [👥 Community](https://community.aiagent.dev)
+[🌐 Try AI Agent](https://aiagent.surf)
 ```
 
 This README maintains the same friendly, comprehensive style as the original LiteDB documentation while focusing on your AI Agent platform. It includes all the features you mentioned (live view, prompt-based creation, scheduling, community) and provides practical examples and best practices adapted for the no-code drag-and-drop interface.
